@@ -12,6 +12,10 @@ A simple full-stack application built using React and Node.js that displays sale
 - Node.js
 - Express
 
+## Preview
+
+![Dashboard](dashboard.png)
+
 ## How to Run
 1. Run backend:
    cd backend
